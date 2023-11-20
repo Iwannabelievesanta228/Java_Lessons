@@ -2,4 +2,4 @@
 
 Реализовать функцию нахождения 16-битной контрольной суммы файла с использованием бинарных операций и ByteBuffer.
 
-![image](https://github.com/AndreyGatsuk/Java-labs/assets/148007543/37f93a2d-ad6d-4606-9003-d0b02f932a58)
+![image](https://github.com/kasimovsvyatoslav/Java_Lessons/blob/b4b5824ff8b9bc5aa99ec3ca913918f93211401e)
